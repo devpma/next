@@ -1,0 +1,8 @@
+.post {
+  border: 1px solid #333;
+  padding: 10px;
+}
+
+.post + .post {
+  margin-top: 1rem;
+}
